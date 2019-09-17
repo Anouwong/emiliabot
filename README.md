@@ -51,7 +51,7 @@ Hello, My name is Emilia. I'll give warmth to users. There are many systems such
 ## Creator
 Anouwong#6237
 
-Translator
+## Translator
 * Lao : Anouwong#6237
 * Thai : Anouwong#6237
 * English : Anouwong#6237, サギリは一人になりたい#2019
